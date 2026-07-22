@@ -26,4 +26,5 @@ Waxaan jeclahay tiknoolajiyada.
 Waxaan jeclahay tiknoolajiyada.
 Waxaan horumarinayaa aqoontayda.
 Waxaan ka shaqeeyaa mashaariic kala duwan.
+Waxaan wax ka bartaa khaladaadkayga.
 ## Developer
