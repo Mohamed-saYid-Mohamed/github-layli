@@ -105,3 +105,5 @@ courses = ["Python", "Database", "AI"]
 print(courses)
 for course in courses:
     print(course)
+    status = "Arday"
+print(status)
