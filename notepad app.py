@@ -81,3 +81,5 @@ magaalo = "Mogadishu"
 print(magaalo)
 dal = "Somalia"
 print(dal)
+sanad = 2026
+print(sanad)
