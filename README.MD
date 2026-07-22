@@ -34,4 +34,5 @@ Waxaan abuuraa xalal dijitaal ah.
 Maalin kasta waxaan kordhiyaa aqoontayda.
 Waxaan dhisayaa mustaqbalkayga.
 Waxaan xiiseynayaa horumarinta software-ka.
+Waxaan baranayaa farsamooyin casri ah.
 ## Developer
