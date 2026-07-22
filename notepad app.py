@@ -22,3 +22,6 @@ for item in liis:
 }
 
 print(user)
+x = 10
+y = 20
+print(x + y)
