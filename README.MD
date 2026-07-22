@@ -25,4 +25,5 @@ Barashadu weligeed ma dhammaato.
 Waxaan jeclahay tiknoolajiyada.
 Waxaan jeclahay tiknoolajiyada.
 Waxaan horumarinayaa aqoontayda.
+Waxaan ka shaqeeyaa mashaariic kala duwan.
 ## Developer
