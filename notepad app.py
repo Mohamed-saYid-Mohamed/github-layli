@@ -34,3 +34,5 @@ for magac in magacyo:
     return a+b
 natiijo = isku_dar(5,3)
 print(natiijo)
+class Arday:
+    pass
