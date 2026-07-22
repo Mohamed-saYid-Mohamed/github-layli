@@ -107,3 +107,4 @@ for course in courses:
     print(course)
     status = "Arday"
 print(status)
+print("Waxaan dhisayaa mustaqbalka technology")
