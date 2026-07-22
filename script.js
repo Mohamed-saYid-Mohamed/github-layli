@@ -12,3 +12,6 @@ let da = 24;
 if(da >= 18){
     console.log("Qof weyn");
 }
+for(let i = 1; i <= 5; i++){
+    console.log(i);
+}
