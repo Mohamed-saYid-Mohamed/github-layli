@@ -117,3 +117,4 @@ print(sum(numbers))
 xog = "Mashruuca Git iyo Python"
 print(xog)
 print("Waxaan gaarayaa yoolkayga")
+print("Hal talaabo ayaa naga dhiman")
