@@ -30,3 +30,5 @@ magacyo = ["Ali", "Mohamed", "Ahmed"]
 print(magacyo)
 for magac in magacyo:
     print(magac)
+    def isku_dar(a,b):
+    return a+b
