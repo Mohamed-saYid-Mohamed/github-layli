@@ -83,3 +83,5 @@ dal = "Somalia"
 print(dal)
 sanad = 2026
 print(sanad)
+luuqado = ["Python", "JavaScript", "SQL"]
+print(luuqado)
