@@ -16,4 +16,5 @@ Waxaan baranayaa horumarinta website-yada.
 Waxaan isticmaalayaa HTML iyo CSS.
 Waxaan baranayaa kaydinta xogta.
 Waxaan dadaal ugu jiraa inaan gaaro yoolkayga.
+Mashruucayga Git wuu sii kobcayaa.
 ## Developer
