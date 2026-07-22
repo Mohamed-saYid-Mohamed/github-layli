@@ -112,3 +112,5 @@ def hello(name):
     print("Salaan " + name)
 
 hello("Mohamed")
+numbers = [10,20,30]
+print(sum(numbers))
