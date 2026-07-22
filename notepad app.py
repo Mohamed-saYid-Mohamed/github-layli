@@ -32,3 +32,5 @@ for magac in magacyo:
     print(magac)
     def isku_dar(a,b):
     return a+b
+natiijo = isku_dar(5,3)
+print(natiijo)
