@@ -32,4 +32,5 @@ Waxaan ahay arday Computer Science ah.
 Waxaan jeclahay xalinta dhibaatooyinka.
 Waxaan abuuraa xalal dijitaal ah.
 Maalin kasta waxaan kordhiyaa aqoontayda.
+Waxaan dhisayaa mustaqbalkayga.
 ## Developer
