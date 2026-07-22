@@ -9,3 +9,5 @@ def salaam():
     print("Salaan Mohamed")
 
 salaam()
+liis = ["Python", "HTML", "CSS"]
+print(liis)
