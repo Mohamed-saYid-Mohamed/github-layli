@@ -30,4 +30,5 @@ Waxaan wax ka bartaa khaladaadkayga.
 Maalin kasta waan sii fiicnaanayaa.
 Waxaan ahay arday Computer Science ah.
 Waxaan jeclahay xalinta dhibaatooyinka.
+Waxaan abuuraa xalal dijitaal ah.
 ## Developer
