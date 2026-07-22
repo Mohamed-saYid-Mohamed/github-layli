@@ -15,3 +15,9 @@ if(da >= 18){
 for(let i = 1; i <= 5; i++){
     console.log(i);
 }
+let user = {
+    magac: "Mohamed",
+    xirfad: "Programming"
+};
+
+console.log(user);
