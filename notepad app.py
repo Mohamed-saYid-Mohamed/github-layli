@@ -79,3 +79,5 @@ print("Python project qaybtiisa koowaad waa dhammaatay")
 print("Waxaan sii wadayaa barashada Python")
 magaalo = "Mogadishu"
 print(magaalo)
+dal = "Somalia"
+print(dal)
