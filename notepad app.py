@@ -118,3 +118,4 @@ xog = "Mashruuca Git iyo Python"
 print(xog)
 print("Waxaan gaarayaa yoolkayga")
 print("Hal talaabo ayaa naga dhiman")
+print("Waxaan dhammeeyay 100 commits Git")
