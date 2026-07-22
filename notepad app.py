@@ -103,3 +103,5 @@ print(a - b)
 print("Git wuxuu iga caawinayaa maamulka mashruucyada")
 courses = ["Python", "Database", "AI"]
 print(courses)
+for course in courses:
+    print(course)
