@@ -21,4 +21,5 @@ Waxaan baranayaa Python.
 Waxaan sameeyaa tababar joogto ah.
 Waxaan rabaa inaan noqdo injineer software.
 Waxaan sameeyaa barnaamijyo fudud.
+Barashadu weligeed ma dhammaato.
 ## Developer
