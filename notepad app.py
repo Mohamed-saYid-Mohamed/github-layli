@@ -3,3 +3,5 @@ magac = "Mohamed"
 print(magac)
 da = 24
 print(da)
+xirfad = "Programming"
+print(xirfad)
