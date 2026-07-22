@@ -21,3 +21,8 @@ let user = {
 };
 
 console.log(user);
+const fariin = () => {
+    console.log("Waxaan baranayaa JS");
+};
+
+fariin();
