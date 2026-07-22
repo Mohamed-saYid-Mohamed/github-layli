@@ -37,3 +37,5 @@ print(natiijo)
 class Arday:
     pass
 print("Waxaan baranayaa Python maalin kasta")
+xog = "Git practice"
+print(xog)
