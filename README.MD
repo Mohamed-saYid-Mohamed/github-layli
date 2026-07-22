@@ -15,4 +15,5 @@ Waxaan sameeyaa mashruucyo faa'iido leh.
 Waxaan baranayaa horumarinta website-yada.
 Waxaan isticmaalayaa HTML iyo CSS.
 Waxaan baranayaa kaydinta xogta.
+Waxaan dadaal ugu jiraa inaan gaaro yoolkayga.
 ## Developer
