@@ -14,4 +14,5 @@ Barnaamij samayntu waa waxa aan jeclahay.
 Waxaan sameeyaa mashruucyo faa'iido leh.
 Waxaan baranayaa horumarinta website-yada.
 Waxaan isticmaalayaa HTML iyo CSS.
+Waxaan baranayaa kaydinta xogta.
 ## Developer
