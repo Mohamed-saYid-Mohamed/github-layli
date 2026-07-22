@@ -12,4 +12,5 @@ Waxaan baranayaa tiknoolajiyada cusub.
 Waxaan ku tababaranayaa amarrada Git.
 Barnaamij samayntu waa waxa aan jeclahay.
 Waxaan sameeyaa mashruucyo faa'iido leh.
+Waxaan baranayaa horumarinta website-yada.
 ## Developer
