@@ -11,3 +11,5 @@ def salaam():
 salaam()
 liis = ["Python", "HTML", "CSS"]
 print(liis)
+for item in liis:
+    print(item)
