@@ -26,3 +26,5 @@ const fariin = () => {
 };
 
 fariin();
+let maanta = new Date();
+console.log(maanta);
