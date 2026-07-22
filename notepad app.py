@@ -25,3 +25,4 @@ print(user)
 x = 10
 y = 20
 print(x + y)
+print("Python waa luuqad aan jeclahay")
