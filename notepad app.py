@@ -28,3 +28,5 @@ print(x + y)
 print("Python waa luuqad aan jeclahay")
 magacyo = ["Ali", "Mohamed", "Ahmed"]
 print(magacyo)
+for magac in magacyo:
+    print(magac)
