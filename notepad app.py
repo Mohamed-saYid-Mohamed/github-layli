@@ -1,3 +1,5 @@
 print("Ku soo dhawoow Python project")
 magac = "Mohamed"
 print(magac)
+da = 24
+print(da)
