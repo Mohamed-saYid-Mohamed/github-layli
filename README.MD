@@ -29,4 +29,5 @@ Waxaan ka shaqeeyaa mashaariic kala duwan.
 Waxaan wax ka bartaa khaladaadkayga.
 Maalin kasta waan sii fiicnaanayaa.
 Waxaan ahay arday Computer Science ah.
+Waxaan jeclahay xalinta dhibaatooyinka.
 ## Developer
