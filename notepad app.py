@@ -114,3 +114,5 @@ def hello(name):
 hello("Mohamed")
 numbers = [10,20,30]
 print(sum(numbers))
+xog = "Mashruuca Git iyo Python"
+print(xog)
