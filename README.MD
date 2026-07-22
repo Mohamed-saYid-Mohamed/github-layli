@@ -24,4 +24,5 @@ Waxaan sameeyaa barnaamijyo fudud.
 Barashadu weligeed ma dhammaato.
 Waxaan jeclahay tiknoolajiyada.
 Waxaan jeclahay tiknoolajiyada.
+Waxaan horumarinayaa aqoontayda.
 ## Developer
