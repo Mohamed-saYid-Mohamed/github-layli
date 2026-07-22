@@ -97,3 +97,6 @@ def farriin():
     print("Ku dadaal barashada programming")
 
 farriin()
+a = 50
+b = 25
+print(a - b)
