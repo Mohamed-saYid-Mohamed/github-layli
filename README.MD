@@ -19,4 +19,5 @@ Waxaan dadaal ugu jiraa inaan gaaro yoolkayga.
 Mashruucayga Git wuu sii kobcayaa.
 Waxaan baranayaa Python.
 Waxaan sameeyaa tababar joogto ah.
+Waxaan rabaa inaan noqdo injineer software.
 ## Developer
