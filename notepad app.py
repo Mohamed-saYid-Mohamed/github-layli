@@ -13,6 +13,12 @@ liis = ["Python", "HTML", "CSS"]
 print(liis)
 for item in liis:
     print(item)
-    
+
     if da >= 18:
     print("Qof weyn")
+    user = {
+    "magac": "Mohamed",
+    "xirfad": "Python"
+}
+
+print(user)
