@@ -42,3 +42,4 @@ print(xog)
 numbers = [1,2,3,4]
 print(numbers)
 print("Mashruuca Python wuu socdaa")
+print("Python project qaybtiisa koowaad waa dhammaatay")
