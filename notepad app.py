@@ -26,3 +26,5 @@ x = 10
 y = 20
 print(x + y)
 print("Python waa luuqad aan jeclahay")
+magacyo = ["Ali", "Mohamed", "Ahmed"]
+print(magacyo)
