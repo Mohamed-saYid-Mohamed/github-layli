@@ -87,3 +87,9 @@ luuqado = ["Python", "JavaScript", "SQL"]
 print(luuqado)
 for luuqad in luuqado:
     print(luuqad)
+    xirfado = {
+    "Python": "Heer sare",
+    "Git": "Barasho"
+}
+
+print(xirfado)
