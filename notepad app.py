@@ -36,3 +36,4 @@ natiijo = isku_dar(5,3)
 print(natiijo)
 class Arday:
     pass
+print("Waxaan baranayaa Python maalin kasta")
