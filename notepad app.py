@@ -85,3 +85,5 @@ sanad = 2026
 print(sanad)
 luuqado = ["Python", "JavaScript", "SQL"]
 print(luuqado)
+for luuqad in luuqado:
+    print(luuqad)
