@@ -28,3 +28,4 @@ const fariin = () => {
 fariin();
 let maanta = new Date();
 console.log(maanta);
+console.log("JavaScript practice waa dhammaatay");
