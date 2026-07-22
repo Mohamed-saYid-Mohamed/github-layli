@@ -108,3 +108,7 @@ for course in courses:
     status = "Arday"
 print(status)
 print("Waxaan dhisayaa mustaqbalka technology")
+def hello(name):
+    print("Salaan " + name)
+
+hello("Mohamed")
