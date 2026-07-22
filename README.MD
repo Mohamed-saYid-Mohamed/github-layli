@@ -3,4 +3,5 @@ magacygu waa mohamed
 waxaan ahay ardey Barta it
 waxaan jeclahay prgraming
 waxaan bartaa python
+waxaan dhisay website djangoa ah
 ## Developer
