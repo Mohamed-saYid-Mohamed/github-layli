@@ -41,3 +41,4 @@ xog = "Git practice"
 print(xog)
 numbers = [1,2,3,4]
 print(numbers)
+print("Mashruuca Python wuu socdaa")
