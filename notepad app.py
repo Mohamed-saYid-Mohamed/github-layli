@@ -93,3 +93,7 @@ for luuqad in luuqado:
 }
 
 print(xirfado)
+def farriin():
+    print("Ku dadaal barashada programming")
+
+farriin()
