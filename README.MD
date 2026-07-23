@@ -40,3 +40,4 @@ Waxaan sii wanaajinayaa naftayda.
 Waxaan gaaray 50 commits oo Git ah.
 waxaan gaaray 102
 ku so dhawoow jaamacada zamza
+Waxaan ku jiraa feature1 branch.
