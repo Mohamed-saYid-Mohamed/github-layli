@@ -40,5 +40,6 @@ Waxaan sii wanaajinayaa naftayda.
 Waxaan gaaray 50 commits oo Git ah.
 waxaan gaaray 102
 ku so dhawoow jaamacada zamza
-ilaa hadafka ma joogsanaayo
-waxaan ahay mohamed
+Waxaan ku jiraa feature1 branch.
+hal commit baan ku daray branch
+waan si socdaa
