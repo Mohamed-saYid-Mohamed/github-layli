@@ -38,3 +38,5 @@ Waxaan baranayaa farsamooyin casri ah.
 Waxaan sii wanaajinayaa naftayda.
 ## Developer
 Waxaan gaaray 50 commits oo Git ah.
+waxaan gaaray 102
+ku so dhawoow jaamacada zamza
