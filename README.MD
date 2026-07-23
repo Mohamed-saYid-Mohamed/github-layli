@@ -39,4 +39,5 @@ Waxaan sii wanaajinayaa naftayda.
 ## Developer
 Waxaan gaaray 50 commits oo Git ah.
 waxaan gaaray 102
-ku so dhawoow jaamacada zamza
+ku so dhawoow jaamacada zamzam
+waxay ku taala zobe ama km5
