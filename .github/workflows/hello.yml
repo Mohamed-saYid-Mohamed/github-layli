@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Count files
-        run: echo "FILES=$(find . -type f | wc -l)" >> $GITHUB_ENV
+        run: echo "FILES=$(find . -path ./.git -prune -o -type f -print | wc -l)" >> $GITHUB_ENV
 
       - name: Greet Student
         run: echo "Hello ${{ vars.STUDENT_NAME }}, your files count are $FILES"
